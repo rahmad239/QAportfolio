@@ -1,0 +1,19 @@
+body {
+font-family: 'Sacramento', cursive;
+}
+
+.max-viewport {
+    min-height: 100vh;
+}
+
+#banner,
+#contact,
+#social {
+    background: linear-gradient(
+        rgba(139,69,19,0.6), rgba(139,69,19,0.6)),
+        url(images/portfoliobackground.jpg);
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover; 
+}
