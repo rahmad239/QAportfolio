@@ -10,3 +10,4 @@ for consulting
 
 <i class="fas fa-chart-line"></i>
 
+640 by 480 in mac preview
